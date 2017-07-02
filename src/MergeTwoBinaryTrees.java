@@ -7,12 +7,12 @@ import java.util.ArrayList;
  */
 
 
-class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-    TreeNode(int x) { val = x; }
-}
+//class TreeNode {
+//    int val;
+//    TreeNode left;
+//    TreeNode right;
+//    TreeNode(int x) { val = x; }
+//}
 
 public class MergeTwoBinaryTrees {
     public TreeNode mergeTrees(TreeNode t1, TreeNode t2) {
